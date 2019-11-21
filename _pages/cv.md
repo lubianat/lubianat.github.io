@@ -9,44 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+(Currently only available in portuguese)
 
-Work experience
+Educação
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Graduado em Ciências Biomédicas pela Universidade de São Paulo (2014-2017)
+Mestrando em Bioinformática pela Universidade de São Paulo (2018 )
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Experiências de pesquisa
+======
+* Brasil:
+2011 - Estágio de 1 ano em ecotoxicologia/bioquímica sob orientação do Prof. Moacélio Verânio Silva Filho (projeto de vocação científica), Fiocruz/RJ
+2012 - Estágio de 6 meses no laboratório de doenças neurodegenerativas, sob orientação dos professores Fernanda de Felice e Sérgio Ferreira, Instituto de Bioquímica Médica, CSS/UFRJ
+2014 - Estágio de 3 meses da grade curricular de Ciências Biomédicas com modelo de esclerose múltipla em camundongos sob orientação do Prof. Jean Pierre Schatzmann Peron, ICB/USP
+2014 - Estágio de 4 meses da grade curricular de Ciências Biomédicas com modelo de parkinson em ratos sob orientação do Prof. Luiz Roberto Giorgetti de Britto, ICB/USP
+2015 - Estágio de 4 meses da grade curricular de Ciências Biomédicas usando eletrofisiologia para investigar sinalização redox no córtex visual murino sob orientação do Prof. Roberto Pasquale, ICB/USP
+2016 - Estágio de 4 meses da grade curricular de Ciências Biomédicas no desenvolvimento ósseo da dentição de mutantes de peixe-zebra, sob orientação de Erika Kague e supervisão de Profa. Maria Rita Passos-Bueno IB/USP
+2016 - Estágio de 4 meses da grade curricular de Ciências Biomédicas com modificação genética de microalgas com fins biotecnológicos sob orientação de Prof. João Carlos Monteiro de Carvalho, FCF/USP
+2017 - Estágio de 1 ano para tese de conclusão de curso com toxinas e antitoxinas do sistemas de secreção do tipo 4 em Xanthomonas citri, sob orientação do Prof. Shaker Chuck Farah, IQ/USP
+2018 - 2019 - Mestrado em Bioinformática com desenvolvimento de metodos e análise de dados transcriptômicos bulk e de células únicas sob orientação do Prof. Helder Nakaya, FCF/USP
+* Exterior
+2014 - Estágio de 1 mês em interações neuroimunes do envelhecimento sob orientação da Prof. Michal Schwartz, Instituto Weizmann, Rehovot, Israel
+2015 -  Estágio de 2 meses aplicando CRISPR/Cas9 para estudar conexões entre neurônios da retina de peixe-zebra sob orientação do Prof. Stephan Neuhauss, Universidade de Zurique, Zurique, Suíça
+2017 - Estágio de 2 meses estudando o papel da pequena ORF “Toddler” na gastrulação de peixe-zebra sob orientação de Andrea Pauli, Instituto de Patologia Molecular/ Vienna Biocenter, Viena, Áustria
+
+Publicações
+======
+* Kague, E., Witten, P. E., Soenens, M., Campos, C. L., Lubiana, T., Fisher, S., ... & Huysseune, A. (2018). Zebrafish sp7 mutants show tooth cycling independent of attachment, eruption and poor differentiation of teeth. Developmental biology, 435(2), 176-184.
+* Molino, J. V., Alves, T. L., Ferreira-Camargo, L., Croce, M., Tanaka, A., Buson, F., ... & Siratuti, V. (2016). Chimeric spider silk production in microalgae: a modular bionanomaterial. Research Ideas and Outcomes, 2, e9342.
+* Lubiana-Alves T, Nakaya HI. Science Family skills: An Alexa Assistant Tailored for Laboratory Routine. BioRxiv. 2018 Jan 1:484147.
+* Bayer-Santos E, Cenens W, Matsuyama BY, Oka GU, Di Sessa G, Mininel ID, Alves TL, Farah CS. The opportunistic pathogen Stenotrophomonas maltophilia utilizes a type IV secretion system for interbacterial killing. PLoS pathogens. 2019 Sep 12;15(9):e1007651.
+* Suhrbier A, Prow NA, Hirata TD, Tang B, Larcher T, Mukhopadhyay P, Alves TL, Le TT, Gardner J, Poo YS, Nakayama E. Exacerbation of chikungunya virus rheumatic immunopathology by a high fiber diet and butyrate. Frontiers in Immunology. 2019;10:2736.
+* Lubiana T, Nakaya H (2019). FCBF: Fast Correlation Based Filter for Feature Selection. R package version 1.4.0. (	https://bioconductor.org/packages/FCBF/)
+* Lubiana T, Nakaya H (2019). fcoex: FCBF-based Co-Expression Networks for Single Cells. R package version 1.0.0. (https://bioconductor.org/packages/fcoex/)
   
-Skills
+Prêmios
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+2012 - Medalhista de Ouro na 8a Olimpíada Brasileira de Biologia
+2012 - Medalhista de Bronze na 23a Olimpíada Internacional de Biologia, em Singapura
+2013 - 1º lugar na Olimpíada Brasileira de Neurociências
+2013 - 4º lugar na Olimpíada Internacional de Neurociências, em Viena, Áustria
+2014 - Menção Honrosa pelo pôster “GM1 ganglioside promotes recovery in a rat model of Parkinson's disease” (Orientação por Prof. Luiz Roberto Giorgetti de Britto) no congresso de 45 anos do ICB/USP.
+2015 - Medalhista de Bronze com a equipe “Protomatos/USP” para competição de nanodesign biomolecular BIOMOD, organizada pelo Instituto Wyss para Engenharia com Inspiração Biológica, da universidade de Harvard, Cambridge, MA, EUA 
+2016 - Medalhista  de Prata com a equipe USP/UNIFESP para a competição de biologia sintética International Genetically Engineered Machines Competition (iGEM),  organizada pela iGEM foundation, em Boston, MA, EUA
+2017 - Medalhista de Ouro como líder da equipe USP para  a competição de biologia sintética International Genetically Engineered Machines Competition (iGEM) em Boston, MA, EUA
+2019 - Melhor pôster na categoria “Systems Biology and Networks” do congresso  X-meeting 2019 pelo pôster “Fcoex: an R package for detecting co-expression modules in single-cell RNA-Seq data"
   
 Teaching
 ======

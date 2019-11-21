@@ -14,4 +14,4 @@ The mutants for the sp7/osterix gene had teeth and replacement, but no bone atta
 
 [Open bioRxiv version here](https://www.biorxiv.org/content/10.1101/259085v1)
 
-Recommended citation: Kague, E., Witten, P. E., Soenens, M., Campos, C. L., Lubiana, T., Fisher, S., … & Huysseune, A. (2018). Zebrafish sp7 mutants show tooth cycling independent of attachment, eruption and poor differentiation of teeth. Developmental biology, 435(2), 176-184.
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

@@ -83,7 +83,7 @@ author:
   name             : "Tiago Lubiana"
   avatar           : "bigode.jpg"
   bio              : "MSc student in Bioinformatics at the University of São Paulo. Big fan of Wikidata, open knowledge, and single-cell technologies"
-  location         : "São Paulo, Brazul"
+  location         : "São Paulo, Brazil"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=_1bOZ5cAAAAJ"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "TiagoLubiana"
 
 
 # Reading Files

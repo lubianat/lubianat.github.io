@@ -1,0 +1,17 @@
+---
+title: "Zebrafish sp7 mutants show tooth cycling independent of attachment, eruption and poor differentiation of teeth. Developmental biology"
+collection: publications
+permalink: /publication/2018_zebrafish
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Developmental Biology'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Kague, E., Witten, P. E., Soenens, M., Campos, C. L., Lubiana, T., Fisher, S., … & Huysseune, A. (2018). Zebrafish sp7 mutants show tooth cycling independent of attachment, eruption and poor differentiation of teeth. Developmental biology, 435(2), 176-184'
+---
+This paper is about a zebrafish mutant that has cranial defects. I worked on this project during my undergraduate studies in the first semester of 2016, doing stainings for cartilage, bones and osteoclast activity (TRAP staining).  My direct supervisor was Erica Kague, the paper's first author.
+
+The mutants for the sp7/osterix gene had teeth and replacement, but no bone attachment could be seem.
+
+[Open bioRxiv version here](https://www.biorxiv.org/content/10.1101/259085v1)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

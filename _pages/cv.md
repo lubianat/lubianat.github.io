@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+For an updated CV, please see my profile at the Lattes Curriculum Vitae database: 
+http://lattes.cnpq.br/2854595415814603
+
+
 (Currently only available in portuguese)
 
 Educação
@@ -19,19 +24,19 @@ Mestrando em Bioinformática pela Universidade de São Paulo (2018 )
 Experiências de pesquisa
 ======
 * Brasil:
-2011 - Estágio de 1 ano em ecotoxicologia/bioquímica sob orientação do Prof. Moacélio Verânio Silva Filho (projeto de vocação científica), Fiocruz/RJ
-2012 - Estágio de 6 meses no laboratório de doenças neurodegenerativas, sob orientação dos professores Fernanda de Felice e Sérgio Ferreira, Instituto de Bioquímica Médica, CSS/UFRJ
-2014 - Estágio de 3 meses da grade curricular de Ciências Biomédicas com modelo de esclerose múltipla em camundongos sob orientação do Prof. Jean Pierre Schatzmann Peron, ICB/USP
-2014 - Estágio de 4 meses da grade curricular de Ciências Biomédicas com modelo de parkinson em ratos sob orientação do Prof. Luiz Roberto Giorgetti de Britto, ICB/USP
-2015 - Estágio de 4 meses da grade curricular de Ciências Biomédicas usando eletrofisiologia para investigar sinalização redox no córtex visual murino sob orientação do Prof. Roberto Pasquale, ICB/USP
-2016 - Estágio de 4 meses da grade curricular de Ciências Biomédicas no desenvolvimento ósseo da dentição de mutantes de peixe-zebra, sob orientação de Erika Kague e supervisão de Profa. Maria Rita Passos-Bueno IB/USP
-2016 - Estágio de 4 meses da grade curricular de Ciências Biomédicas com modificação genética de microalgas com fins biotecnológicos sob orientação de Prof. João Carlos Monteiro de Carvalho, FCF/USP
-2017 - Estágio de 1 ano para tese de conclusão de curso com toxinas e antitoxinas do sistemas de secreção do tipo 4 em Xanthomonas citri, sob orientação do Prof. Shaker Chuck Farah, IQ/USP
-2018 - 2019 - Mestrado em Bioinformática com desenvolvimento de metodos e análise de dados transcriptômicos bulk e de células únicas sob orientação do Prof. Helder Nakaya, FCF/USP
+* 2011 - Estágio de 1 ano em ecotoxicologia/bioquímica sob orientação do Prof. Moacélio Verânio Silva Filho (projeto de vocação científica), Fiocruz/RJ
+* 2012 - Estágio de 6 meses no laboratório de doenças neurodegenerativas, sob orientação dos professores Fernanda de Felice e Sérgio Ferreira, Instituto de Bioquímica Médica, CSS/UFRJ
+* 2014 - Estágio de 3 meses da grade curricular de Ciências Biomédicas com modelo de esclerose múltipla em camundongos sob orientação do Prof. Jean Pierre Schatzmann Peron, ICB/USP
+* 2014 - Estágio de 4 meses da grade curricular de Ciências Biomédicas com modelo de parkinson em ratos sob orientação do Prof. Luiz Roberto Giorgetti de Britto, ICB/USP
+* 2015 - Estágio de 4 meses da grade curricular de Ciências Biomédicas usando eletrofisiologia para investigar sinalização redox no córtex visual murino sob orientação do Prof. Roberto Pasquale, ICB/USP
+* 2016 - Estágio de 4 meses da grade curricular de Ciências Biomédicas no desenvolvimento ósseo da dentição de mutantes de peixe-zebra, sob orientação de Erika Kague e supervisão de Profa. Maria Rita Passos-Bueno IB/USP
+* 2016 - Estágio de 4 meses da grade curricular de Ciências Biomédicas com modificação genética de microalgas com fins biotecnológicos sob orientação de Prof. João Carlos Monteiro de Carvalho, FCF/USP
+* 2017 - Estágio de 1 ano para tese de conclusão de curso com toxinas e antitoxinas do sistemas de secreção do tipo 4 em Xanthomonas citri, sob orientação do Prof. Shaker Chuck Farah, IQ/USP
+* 2018 - 2019 - Mestrado em Bioinformática com desenvolvimento de metodos e análise de dados transcriptômicos bulk e de células únicas sob orientação do Prof. Helder Nakaya, FCF/USP
 * Exterior
-2014 - Estágio de 1 mês em interações neuroimunes do envelhecimento sob orientação da Prof. Michal Schwartz, Instituto Weizmann, Rehovot, Israel
-2015 -  Estágio de 2 meses aplicando CRISPR/Cas9 para estudar conexões entre neurônios da retina de peixe-zebra sob orientação do Prof. Stephan Neuhauss, Universidade de Zurique, Zurique, Suíça
-2017 - Estágio de 2 meses estudando o papel da pequena ORF “Toddler” na gastrulação de peixe-zebra sob orientação de Andrea Pauli, Instituto de Patologia Molecular/ Vienna Biocenter, Viena, Áustria
+* 2014 - Estágio de 1 mês em interações neuroimunes do envelhecimento sob orientação da Prof. Michal Schwartz, Instituto Weizmann, Rehovot, Israel
+* 2015 -  Estágio de 2 meses aplicando CRISPR/Cas9 para estudar conexões entre neurônios da retina de peixe-zebra sob orientação do Prof. Stephan Neuhauss, Universidade de Zurique, Zurique, Suíça
+* 2017 - Estágio de 2 meses estudando o papel da pequena ORF “Toddler” na gastrulação de peixe-zebra sob orientação de Andrea Pauli, Instituto de Patologia Molecular/ Vienna Biocenter, Viena, Áustria
 
 Publicações
 ======
@@ -45,22 +50,12 @@ Publicações
   
 Prêmios
 ======
-2012 - Medalhista de Ouro na 8a Olimpíada Brasileira de Biologia
-2012 - Medalhista de Bronze na 23a Olimpíada Internacional de Biologia, em Singapura
-2013 - 1º lugar na Olimpíada Brasileira de Neurociências
+* 2012 - Medalha de Ouro na 8a Olimpíada Brasileira de Biologia
+* 2012 - Medalha de Bronze na 23a Olimpíada Internacional de Biologia, em Singapura
+* 2013 - 1º lugar na Olimpíada Brasileira de Neurociências
 2013 - 4º lugar na Olimpíada Internacional de Neurociências, em Viena, Áustria
-2014 - Menção Honrosa pelo pôster “GM1 ganglioside promotes recovery in a rat model of Parkinson's disease” (Orientação por Prof. Luiz Roberto Giorgetti de Britto) no congresso de 45 anos do ICB/USP.
-2015 - Medalhista de Bronze com a equipe “Protomatos/USP” para competição de nanodesign biomolecular BIOMOD, organizada pelo Instituto Wyss para Engenharia com Inspiração Biológica, da universidade de Harvard, Cambridge, MA, EUA 
-2016 - Medalhista  de Prata com a equipe USP/UNIFESP para a competição de biologia sintética International Genetically Engineered Machines Competition (iGEM),  organizada pela iGEM foundation, em Boston, MA, EUA
-2017 - Medalhista de Ouro como líder da equipe USP para  a competição de biologia sintética International Genetically Engineered Machines Competition (iGEM) em Boston, MA, EUA
-2019 - Melhor pôster na categoria “Systems Biology and Networks” do congresso  X-meeting 2019 pelo pôster “Fcoex: an R package for detecting co-expression modules in single-cell RNA-Seq data"
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2014 - Menção Honrosa pelo pôster “GM1 ganglioside promotes recovery in a rat model of Parkinson's disease” (Orientação por Prof. Luiz Roberto Giorgetti de Britto) no congresso de 45 anos do ICB/USP.
+* 2015 - Medalha de Bronze com a equipe “Protomatos/USP” para competição de nanodesign biomolecular BIOMOD, organizada pelo Instituto Wyss para Engenharia com Inspiração Biológica, da universidade de Harvard, Cambridge, MA, EUA 
+* 2016 - Medalha  de Prata com a equipe USP/UNIFESP para a competição de biologia sintética International Genetically Engineered Machines Competition (iGEM),  organizada pela iGEM foundation, em Boston, MA, EUA
+* 2017 - Medalha de Ouro como líder da equipe USP para  a competição de biologia sintética International Genetically Engineered Machines Competition (iGEM) em Boston, MA, EUA
+* 2019 - Melhor pôster na categoria “Systems Biology and Networks” do congresso  X-meeting 2019 pelo pôster “Fcoex: an R package for detecting co-expression modules in single-cell RNA-Seq data"

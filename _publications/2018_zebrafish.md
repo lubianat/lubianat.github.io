@@ -2,7 +2,7 @@
 title: "Zebrafish sp7 mutants show tooth cycling independent of attachment, eruption and poor differentiation of teeth. Developmental biology"
 collection: publications
 permalink: /publication/2018_zebrafish
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about work I did as an undergrad in 2016.'
 date: '2018'
 venue: 'Developmental Biology'
 paperurl: 'https://www.biorxiv.org/content/10.1101/259085v1'
@@ -13,5 +13,3 @@ This paper is about a zebrafish mutant that has cranial defects. I worked on thi
 The mutants for the sp7/osterix gene had teeth and replacement, but no bone attachment could be seem.
 
 [Open bioRxiv version here](https://www.biorxiv.org/content/10.1101/259085v1)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

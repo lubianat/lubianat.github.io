@@ -13,7 +13,6 @@ redirect_from:
 For an updated CV, please see my profile at the Lattes Curriculum Vitae database: 
 [http://lattes.cnpq.br/2854595415814603]
 
-
 (Currently only available in portuguese)
 
 Educação

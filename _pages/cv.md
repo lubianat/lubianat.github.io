@@ -9,11 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
+English:
+====
 
-For an updated CV, please see my profile at the Lattes Curriculum Vitae database: 
-[http://lattes.cnpq.br/2854595415814603]
+Education
+======
+Bachelor in Biomedical Sciences, University of São Paulo (2014-2017)
+MSc in Bioinformatics, University of São Paulo (2018-)
 
-(Currently only available in portuguese)
+Sofware
+======
+* Lubiana T, Nakaya H (2019). FCBF: Fast Correlation Based Filter for Feature Selection. R package version 1.4.0. (https://bioconductor.org/packages/FCBF/)
+* Lubiana T, Nakaya H (2019). fcoex: FCBF-based Co-Expression Networks for Single Cells. R package version 1.0.0. (https://bioconductor.org/packages/fcoex/)
+  
+
+Publications
+======
+
+* Lubiana-Alves T, Nakaya HI. Science Family skills: An Alexa Assistant Tailored for Laboratory Routine. BioRxiv. 2018 Jan 1:484147.
+* Bayer-Santos E, Cenens W, Matsuyama BY, Oka GU, Di Sessa G, Mininel ID, Alves TL, Farah CS. The opportunistic pathogen Stenotrophomonas maltophilia utilizes a type IV secretion system for interbacterial killing. PLoS pathogens. 2019 Sep 12;15(9):e1007651.
+* Kague, E., Witten, P. E., Soenens, M., Campos, C. L., Lubiana, T., Fisher, S., ... & Huysseune, A. (2018). Zebrafish sp7 mutants show tooth cycling independent of attachment, eruption and poor differentiation of teeth. Developmental biology, 435(2), 176-184.
+* Molino, J. V., Alves, T. L., Ferreira-Camargo, L., Croce, M., Tanaka, A., Buson, F., ... & Siratuti, V. (2016). Chimeric spider silk production in microalgae: a modular bionanomaterial. Research Ideas and Outcomes, 2, e9342.
+* Suhrbier A, Prow NA, Hirata TD, Tang B, Larcher T, Mukhopadhyay P, Alves TL, Le TT, Gardner J, Poo YS, Nakayama E. Exacerbation of chikungunya virus rheumatic immunopathology by a high fiber diet and butyrate. Frontiers in Immunology. 2019;10:2736.
+
+
+Awards
+======
+* 2019	Best Poster Award at the session Systems Biology and Networks of the X-meeting 2019, AB3C.
+* 2019	8th ISCB Wikipedia competition - 2nd place for the page ["Multiomics"](https://en.wikipedia.org/wiki/Multiomics), International Society for Computational Biology.
+* 2017	Gold Medal at iGEM Competition 2017 (Team USP-Brazil), iGEM Foundation.
+* 2016	Silver Medal at iGEM competition 2016 (Team USP-UNIFESP), iGEM Foundation.
+* 2015	Bronze Medal (Team Protomatos) in BIOMOD, Wyss Institute for Biologically Inspired Engineering at Harvard University.
+* 2014	Honorable Mention, ICB - 45 years Congress - ICB/USP.
+* 2013	4th Place, International Brain Bee, Vienna.
+* 2013	Gold Medal, 9th Brazilian Biology Olympiad.
+* 2013	1st place, Brazilian Brain Bee.
+* 2012	Bronze Medal, 23rd International Biology Olympiad, Singapore.
+* 2012	Gold Medal, 8th Brazilian Biology Olympiad. 
+
+
+
+
+Portuguese:
+====
 
 Educação
 ======

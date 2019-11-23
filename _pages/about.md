@@ -12,4 +12,4 @@ This is Tiago Lubiana's web page, welcome!
 
 I'm currently a MSc student at the University of São Paulo, developing tools for analysis of single-cell RNA-seq data. 
 
-[https://csbiology.com]
+[Computational Systems Biology Laboratory Website](https://csbiology.com)

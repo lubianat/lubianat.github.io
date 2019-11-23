@@ -3,7 +3,6 @@ title: "Zebrafish sp7 mutants show tooth cycling independent of attachment, erup
 collection: publications
 permalink: /publication/2018_zebrafish
 excerpt: 'This paper is about work I did as an undergrad in 2016.'
-date: '2018'
 venue: 'Developmental Biology'
 paperurl: 'https://www.biorxiv.org/content/10.1101/259085v1'
 citation: ''

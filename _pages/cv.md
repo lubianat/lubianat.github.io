@@ -19,8 +19,8 @@ MSc in Bioinformatics, University of São Paulo (2018-)
 
 Sofware
 ======
-* Lubiana T, Nakaya H (2019). FCBF: Fast Correlation Based Filter for Feature Selection. R package version 1.4.0. (https://bioconductor.org/packages/FCBF/)
-* Lubiana T, Nakaya H (2019). fcoex: FCBF-based Co-Expression Networks for Single Cells. R package version 1.0.0. (https://bioconductor.org/packages/fcoex/)
+* Lubiana T, Nakaya H (2019). FCBF: Fast Correlation Based Filter for Feature Selection. R package version 1.4.0. [https://bioconductor.org/packages/FCBF/]
+* Lubiana T, Nakaya H (2019). fcoex: FCBF-based Co-Expression Networks for Single Cells. R package version 1.0.0. []https://bioconductor.org/packages/fcoex/]
   
 
 Publications

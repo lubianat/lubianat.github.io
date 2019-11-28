@@ -35,16 +35,16 @@ Publications
 
 Awards
 ======
-* 2019	Best Poster Award at the session Systems Biology and Networks of the X-meeting 2019, AB3C.
+* 2019	Best Poster Award at the session Systems Biology and Networks of the ["X-meeting 2019"](https://www.x-meeting.com/events/2019), AB3C.
 * 2019	8th ISCB Wikipedia competition - 2nd place for the page ["Multiomics"](https://en.wikipedia.org/wiki/Multiomics), International Society for Computational Biology.
-* 2017	Gold Medal at iGEM Competition 2017 (Team USP-Brazil), iGEM Foundation.
-* 2016	Silver Medal at iGEM competition 2016 (Team USP-UNIFESP), iGEM Foundation.
+* 2017	Gold Medal at iGEM Competition 2017 ["Team USP-Brazil"](http://2017.igem.org/Team:USP-Brazil), iGEM Foundation.
+* 2016	Silver Medal at iGEM competition 2016 ["Team USP-UNIFESP"](http://2016.igem.org/Team:USP_UNIFESP-Brazil), iGEM Foundation.
 * 2015	Bronze Medal (Team Protomatos) in BIOMOD, Wyss Institute for Biologically Inspired Engineering at Harvard University.
 * 2014	Honorable Mention, ICB - 45 years Congress - ICB/USP.
 * 2013	4th Place, International Brain Bee, Vienna.
 * 2013	Gold Medal, 9th Brazilian Biology Olympiad.
 * 2013	1st place, Brazilian Brain Bee.
-* 2012	Bronze Medal, 23rd International Biology Olympiad, Singapore.
+* 2012	Bronze Medal, ["23rd International Biology Olympiad"](http://www.ibo-info.org/ibo-results-and-awards), Singapore.
 * 2012	Gold Medal, 8th Brazilian Biology Olympiad. 
 
 

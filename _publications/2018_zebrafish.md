@@ -9,6 +9,6 @@ citation: ''
 ---
 This paper is about a zebrafish mutant that has cranial defects. I worked on this project during my undergraduate studies in the first semester of 2016, doing stainings for cartilage, bones and osteoclast activity (TRAP staining).  My direct supervisor was Erica Kague, the paper's first author.
 
-The mutants for the sp7/osterix gene had teeth and replacement, but no bone attachment could be seem.
+The mutants for the sp7/osterix gene had teeth and replacement, but no bone attachment could be seen. That was odd, because bone attachment was sen as a requirement for tooth replacement in those animals. 
 
 [Open bioRxiv version here](https://www.biorxiv.org/content/10.1101/259085v1)

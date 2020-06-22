@@ -10,9 +10,11 @@ redirect_from:
 
 Hello, I'm Tiago Lubiana and this is my web page, welcome! 
 
-I'm currently a MSc student at the University of São Paulo, developing tools for analysis of single-cell RNA-seq data. 
+I'm currently a PhD candidate at the University of São Paulo, working with Wikidata and the ontological modelling of concepts related to cell types.
 
-The goal of this website is for me to share writings and publications, a combination of portifolio and repository. 
+I was also one of the creators of the [WikiProject COVID-19 on Wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject_COVID-19), for which you can most definitely contribute. 
+
+Here at this page I'll share writings and publications, a combination of portifolio and repository. 
 
 If you liked (or disliked) any of the content here, cool, I wanna know about it! Reach me via your social media of preference via the links on the left.
 

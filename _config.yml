@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tiago Lubiana"
   avatar           : "bigode.jpg"
-  bio              : "MSc student in Bioinformatics at the University of São Paulo. Big fan of Wikidata, open knowledge, and single-cell technologies"
+  bio              : "PhD candidate in Bioinformatics at the University of São Paulo. Big fan of Wikidata, open knowledge, and single-cell technologies"
   location         : "São Paulo, Brazil"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=_1bOZ5cAAAAJ"
-  email            :
+  email            : "tiago.lubiana.alves@usp.br"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

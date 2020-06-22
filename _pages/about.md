@@ -19,3 +19,5 @@ Here at this page I'll share writings and publications, a combination of portifo
 If you liked (or disliked) any of the content here, cool, I wanna know about it! Reach me via your social media of preference via the links on the left.
 
 For the page of the lab where I'm currently based, go to the [Computational Systems Biology Laboratory Website](https://csbiology.com).
+
+Oh, this page is under construction, so you might find a few bugs here and there. I apologize in advance.

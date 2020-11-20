@@ -9,16 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+My Curriculum Vitae. It might be outdated:
+
 English:
 ====
+
+
 
 Education
 ======
 Bachelor in Biomedical Sciences, University of São Paulo (2014-2017)
-MSc in Bioinformatics, University of São Paulo (2018-)
+MSc in Bioinformatics, University of São Paulo (2018-2020)
+PhD in Bioinformatics, University of São Paulo (2020-)
 
-Sofware
+Sofware Packages
 ======
+
+## R/Bioconductor
 * Lubiana T, Nakaya H (2019). FCBF: Fast Correlation Based Filter for Feature Selection. R package version 1.4.0. [https://bioconductor.org/packages/FCBF/]
 * Lubiana T, Nakaya H (2019). fcoex: FCBF-based Co-Expression Networks for Single Cells. R package version 1.0.0. []https://bioconductor.org/packages/fcoex/]
   
@@ -56,7 +63,8 @@ Portuguese:
 Educação
 ======
 Graduado em Ciências Biomédicas pela Universidade de São Paulo (2014-2017)
-Mestrando em Bioinformática pela Universidade de São Paulo (2018 )
+Mestrado em Bioinformática pela Universidade de São Paulo (2018-2020)
+Doutorado em Bioinformática pela Universidade de São Paulo (2020-)
 
 Experiências de pesquisa
 ======

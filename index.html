@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tiago Lubiana</title>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+  <link rel="icon" href="lubiana.png" type="image/png"> <!-- Favicon link -->
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url('background.png');
+      background-size: cover;
+      background-attachment: fixed;
+      height: 100vh;
+      margin: 0;
+      color: black;
+    }
+
+    .container-custom {
+      background: rgba(255, 255, 255, 0.85);
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 100px;
+      text-align: center;
+      color: black;
+      max-width: 800px;
+    }
+
+    .headshot {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      margin-bottom: 20px;
+    }
+
+    .links a {
+      color: #007bff;
+      text-decoration: none;
+      margin: 0 15px;
+      font-size: 40px;
+    }
+
+    .links a:hover {
+      text-decoration: underline;
+    }
+
+    .language-switcher {
+      display: flex;
+      align-items: center;
+    }
+
+    .language-switcher span {
+      font-size: 24px;
+      cursor: pointer;
+      margin: 0 5px;
+      opacity: 0.3;
+    }
+
+    .language-switcher .active {
+      opacity: 1;
+    }
+
+    .biography-content {
+      margin: 20px auto;
+      max-width: 600px;
+    }
+  </style>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <a class="navbar-brand" href="#">Tiago Lubiana</a>
+    <div class="ml-auto language-switcher">
+      <span id="en-flag" onclick="setLanguage('en')" class="active">🇬🇧</span>
+      <span id="pt-flag" onclick="setLanguage('pt')">🇧🇷</span>
+    </div>
+  </nav>
+  <div class="container container-custom">
+    <img src="lubiana.png" alt="Tiago Lubiana" class="headshot">
+    <h1>Tiago Lubiana</h1>
+    <p id="biography-content" class="biography-content">
+      I’m a PhD student at the University of São Paulo, working with Wikidata and the ontological modeling of concepts
+      related to cell types. I have lots of fun coding, building software, and wrangling structured knowledge. I find
+      the life sciences to be exquisitely beautiful and believe in open knowledge as a tool for happier lives.
+    </p>
+    <div class="links">
+      <a href="mailto:tiago.lubiana.alves@usp.br"><i class="fas fa-envelope"></i></a>
+      <a href="https://www.linkedin.com/in/tiago-lubiana-178a3784/" target="_blank"><img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"
+          alt="LinkedIn" style="height: 40px;"></a>
+      <a href="https://www.wikidata.org/wiki/User:TiagoLubiana" target="_blank"><img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/1200px-Wikidata-logo-en.svg.png"
+          alt="Wikidata" style="height: 40px;"></a>
+      <a href="https://orcid.org/0000-0003-2473-2313" target="_blank"><img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png"
+          alt="ORCID" style="width: 40px;"></a>
+      <a href="https://www.inaturalist.org/people/tiagolubiana" target="_blank"><img
+          src="https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png" alt="iNaturalist"
+          style="width: 40px"></a>
+      <a href="https://github.com/lubianat" target="_blank"><i class="fab fa-github"></i></a>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script>
+    const translations = {
+      en: {
+        biographyContent: "I’m a PhD student at the University of São Paulo, working with Wikidata and the ontological modeling of concepts related to cell types. I have lots of fun coding, building software, and wrangling structured knowledge. I find the life sciences to be exquisitely beautiful and believe in open knowledge as a tool for happier lives."
+      },
+      pt: {
+        biographyContent: "Doutorando na Universidade de São Paulo, trabalhando com o Wikidata e modelagem ontológica de conceitos sobre tipos celulares. Me apraz escrever, codar e organizar conhecimento. Acho o estudo da vida uma coisa linda e acredito no conhecimento livre como meio para vidas mais felizes."
+      }
+    };
+
+    function setLanguage(language) {
+      document.getElementById('biography-content').innerText = translations[language].biographyContent;
+
+      document.getElementById('en-flag').classList.remove('active');
+      document.getElementById('pt-flag').classList.remove('active');
+
+      if (language === 'en') {
+        document.getElementById('en-flag').classList.add('active');
+      } else {
+        document.getElementById('pt-flag').classList.add('active');
+      }
+    }
+  </script>
+</body>
+
+</html>

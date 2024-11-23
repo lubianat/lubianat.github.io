@@ -142,7 +142,7 @@
     };
 
     function setLanguage(language) {
-      document.getElementById('biography-content').innerText = translations[language].biographyContent;
+      document.getElementById('biography-content').innerHTML = translations[language].biographyContent;
 
       document.getElementById('en-flag').classList.remove('active');
       document.getElementById('pt-flag').classList.remove('active');
@@ -153,6 +153,7 @@
         document.getElementById('pt-flag').classList.add('active');
       }
     }
+
   </script>
 </body>
 

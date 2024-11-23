@@ -1,0 +1,44 @@
+/* Reusable Stylesheet */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../background.png');
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    color: black;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.85);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 100px auto;
+    max-width: 800px;
+    text-align: left;
+}
+
+.title {
+    font-size: 1.75rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.meta {
+    font-size: 0.9rem;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.content {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.content a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.content a:hover {
+    text-decoration: underline;
+}

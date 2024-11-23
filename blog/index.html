@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <link href="../styles.css" rel="stylesheet">
+    <style>
+        .blog-list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .blog-list li {
+            margin-bottom: 15px;
+            font-size: 1.25rem;
+        }
+
+        .blog-list a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        .blog-list a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Blog</h1>
+        <ul id="blog-list" class="blog-list"></ul>
+    </div>
+
+    <script>
+        async function fetchPosts() {
+            try {
+                // Fetch the directory listing (using a server-side script)
+                const response = await fetch('list.json');
+                const posts = await response.json();
+
+                // Dynamically populate the blog list
+                const blogList = document.getElementById('blog-list');
+                posts.forEach(post => {
+                    const listItem = document.createElement('li');
+                    listItem.innerHTML = `<a href="${post.url}">${post.title}</a> - <span style="font-size:0.9rem; color:#555;">${post.date}</span>`;
+                    blogList.appendChild(listItem);
+                });
+            } catch (err) {
+                console.error('Error fetching posts:', err);
+            }
+        }
+
+        // Load posts on page load
+        fetchPosts();
+    </script>
+</body>
+
+</html>

@@ -1,4 +1,12 @@
 [
+  { "title": "Biocuration 2024 - Faridabad, India", "url": "2024-04-01-biocuration-2024-faridabad.html", "date": "2024-04-01", "tags": "biocuration, conference, wikidata, obo-foundry" }
+,
+  { "title": "Bringing PanglaoDB to 5-star Linked Open Data", "url": "2024-04-15-panglaodb-wikidata-linked-data.html", "date": "2024-04-15", "tags": "wikidata, panglaodb, bioinformatics, sparql, linked-data" }
+,
+  { "title": "ISB Newsletter Highlights - April 2024", "url": "2024-06-01-isb-newsletter-april-2024.html", "date": "2024-06-01", "tags": "biocuration, ISB, conferences, inclusivity, awards" }
+,
+  { "title": "A Multilingual Cell Ontology based on Wikidata", "url": "2024-07-15-multilingual-cell-ontology.html", "date": "2024-07-15", "tags": "wikidata, multilinguality, cell-ontology, bioinformatics" }
+,
   { "title": "PhD Defense and Next Steps", "url": "2024-09-09-phd-defense-and-next-steps.html", "date": "2024-09-09", "tags": "phd, wikidata, bioinformatics, cell-types" }
 ,
   { "title": "New Role as Wikimedian-in-Residence", "url": "2024-11-23-new-role-in-bhl.html", "date": "2024-11-23", "tags": "wikimedia,biodiversity" }

@@ -1,17 +1,62 @@
 [
-  { "title": "Wikimedia Hackathon 2023 - Athens", "url": "2023-05-10-wikimedia-hackathon-athens.html", "date": "2023-05-10", "tags": "wikimedia, hackathon, wikidata, open-knowledge, inaturalist" }
-,
-  { "title": "ICBO and Ontobras 2023", "url": "2023-09-01-icbo-ontobras-2023.html", "date": "2023-09-01", "tags": "wikidata, icbo, ontobras, ontology, obo-foundry" }
-,
-  { "title": "Biocuration 2024 - Faridabad, India", "url": "2024-04-01-biocuration-2024-faridabad.html", "date": "2024-04-01", "tags": "biocuration, conference, wikidata, obo-foundry" }
-,
-  { "title": "Bringing PanglaoDB to 5-star Linked Open Data", "url": "2024-04-15-panglaodb-wikidata-linked-data.html", "date": "2024-04-15", "tags": "wikidata, panglaodb, bioinformatics, sparql, linked-data" }
-,
-  { "title": "ISB Newsletter Highlights - April 2024", "url": "2024-06-01-isb-newsletter-april-2024.html", "date": "2024-06-01", "tags": "biocuration, ISB, conferences, inclusivity, awards" }
-,
-  { "title": "A Multilingual Cell Ontology based on Wikidata", "url": "2024-07-15-multilingual-cell-ontology.html", "date": "2024-07-15", "tags": "wikidata, multilinguality, cell-ontology, bioinformatics" }
-,
-  { "title": "PhD Defense and Next Steps", "url": "2024-09-09-phd-defense-and-next-steps.html", "date": "2024-09-09", "tags": "phd, wikidata, bioinformatics, cell-types" }
-,
-  { "title": "New Role as Wikimedian-in-Residence", "url": "2024-11-23-new-role-in-bhl.html", "date": "2024-11-23", "tags": "wikimedia,biodiversity" }
+  {
+    "title": "Wikimedia Hackathon 2023 - Athens",
+    "url": "2023-05-10-wikimedia-hackathon-athens.html",
+    "date": "2023-05-10",
+    "tags": "wikimedia, hackathon, wikidata, open-knowledge, inaturalist"
+  },
+  {
+    "title": "ICBO and Ontobras 2023",
+    "url": "2023-09-01-icbo-ontobras-2023.html",
+    "date": "2023-09-01",
+    "tags": "wikidata, icbo, ontobras, ontology, obo-foundry"
+  },
+  {
+    "title": "Biocuration 2024 - Faridabad, India",
+    "url": "2024-04-01-biocuration-2024-faridabad.html",
+    "date": "2024-04-01",
+    "tags": "biocuration, conference, wikidata, obo-foundry"
+  },
+  {
+    "title": "Bringing PanglaoDB to 5-star Linked Open Data",
+    "url": "2024-04-15-panglaodb-wikidata-linked-data.html",
+    "date": "2024-04-15",
+    "tags": "wikidata, panglaodb, bioinformatics, sparql, linked-data"
+  },
+  {
+    "title": "ISB Newsletter Highlights - April 2024",
+    "url": "2024-06-01-isb-newsletter-april-2024.html",
+    "date": "2024-06-01",
+    "tags": "biocuration, ISB, conferences, inclusivity, awards"
+  },
+  {
+    "title": "A Multilingual Cell Ontology based on Wikidata",
+    "url": "2024-07-15-multilingual-cell-ontology.html",
+    "date": "2024-07-15",
+    "tags": "wikidata, multilinguality, cell-ontology, bioinformatics"
+  },
+  {
+    "title": "PhD Defense and Next Steps",
+    "url": "2024-09-09-phd-defense-and-next-steps.html",
+    "date": "2024-09-09",
+    "tags": "phd, wikidata, bioinformatics, cell-types"
+  },
+  {
+    "title": "New Role as Wikimedian-in-Residence",
+    "url": "2024-11-23-new-role-in-bhl.html",
+    "date": "2024-11-23",
+    "tags": "wikimedia,biodiversity"
+  },
+  {
+    "title": "Illustration Abbreviations for Naturalists",
+    "url": "2025-01-13-illustration-abbreviations.html",
+    "date": "2025-01-13",
+    "tags": "natural history, illustration, abbreviations"
+  },
+  {
+    "title": "Lost texts around the web",
+    "url": "2025-04-23-lost_texts.html",
+    "date": "2025-04-23",
+    "tags": "personal blog, web writing, wikimedia, knowledge graphs"
+  }
 ]

@@ -76,3 +76,24 @@ body {
     font-size: 1.75rem;
     /* Increased by 33% */
 }
+
+/* — Webring — */
+.webring {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .75rem;
+    margin-top: 1.5rem;
+    font: 500 .9rem/1.2 "Inter", system-ui, sans-serif;
+    /* neat & modern */
+}
+
+.webring a {
+    text-decoration: none;
+    color: #000;
+    transition: transform .15s ease-in-out;
+}
+
+.webring a:hover {
+    transform: translateY(-2px);
+}
